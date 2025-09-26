@@ -1,6 +1,7 @@
 .deps/
 .vagrant/
 .vscode/
+.idea/
 .DS_Store
 CMakeFiles
 cmake-build-debug
